@@ -22,7 +22,7 @@ and install FastAPI and requirements using
 ```
 pip install fastapi uvicorn sqlalchemy pymysql
 ```
-2. Go to the main folder and run the below command from the command prompt
+2. Run the below command from the command prompt
 ```
 uvicorn main:app --reload
 ```
@@ -30,7 +30,7 @@ By default, App will run on port 5000.
 
 Navigate to URL http://127.0.0.1:5000/ (or) http://localhost:5000
 
-and add /docs afrer url or type http://127.0.0.1:5000/docs on Address Bar You should be able to view the homepage.
+and add '/docs' afrer url or type http://127.0.0.1:5000/docs on Address Bar You should be able to view the homepage.
 
 ### resources
 1. https://fastapi.tiangolo.com/tutorial/sql-databases/
