@@ -1,4 +1,4 @@
-# FastAPI Rest API with MySql
+# FastAPI with MySql
 
 ## Description
 Welcome to the project! This is a Blog Applicaton App made in Python and the FastAPI framework. 
